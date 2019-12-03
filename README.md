@@ -14,7 +14,7 @@ ___
 Submit button. Data will be saved in the database at the backend with the unique CompanyReferenceID(auto generated).
 
 
-<img src="https://github.com/DavinderSinghKharoud/Images/blob/master/mainScreen.png" width="180" height="370">
+<img src="https://github.com/DavinderSinghKharoud/Images/blob/master/mainScreen.png" width="180" height="370"><img src="https://github.com/DavinderSinghKharoud/Images/blob/master/MainScreen2.png" width="180" height="370">
 
 >User see the data saved in the database through second activity, which will open after user click on the ShowCompanies on the menu Item.
 
