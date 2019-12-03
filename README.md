@@ -1,5 +1,5 @@
 # AddCompanyData_SQLite_
-Practicing SQLite Database  
+Getting familiar with SQLite Database  
 It is an old project done during my post graduation diploma.
 ## Tools And Libraries Used:
 
