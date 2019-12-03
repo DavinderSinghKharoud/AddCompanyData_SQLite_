@@ -18,7 +18,7 @@ Submit button. Data will be saved in the database at the backend with the unique
 
 >User see the data saved in the database through second activity which will be open after user click on the ShowCompanies on the menu Item.
 
-<img src="https://github.com/DavinderSinghKharoud/Images/blob/master/MainScreen2.png" width="180" height="370">
+<img src="https://github.com/DavinderSinghKharoud/Images/blob/master/AfterDeletingSpcificRecord.png" width="180" height="370">
 
 >User able to delete the unique record by entering CompanyRef and click on the delete button.
 
@@ -28,4 +28,4 @@ Submit button. Data will be saved in the database at the backend with the unique
 
 <img src="https://github.com/DavinderSinghKharoud/Images/blob/master/ShowingMenuSQlite.png" width="180" height="370"><img src="https://github.com/DavinderSinghKharoud/Images/blob/master/DeletingWholeDatabase.png" width="180" height="370">
 
->User able to delete the last row by checking from the menu Item.
+>User able to delete the last row by clicking "delete last row" from the menu Item.
