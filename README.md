@@ -16,7 +16,7 @@ Submit button. Data will be saved in the database at the backend with the unique
 
 <img src="https://github.com/DavinderSinghKharoud/Images/blob/master/mainScreen.png" width="180" height="370">
 
->User see the data saved in the database through second activity which will be open after user click on the ShowCompanies on the menu Item.
+>User see the data saved in the database through second activity, which will open after user click on the ShowCompanies on the menu Item.
 
 <img src="https://github.com/DavinderSinghKharoud/Images/blob/master/AfterDeletingSpcificRecord.png" width="180" height="370">
 
